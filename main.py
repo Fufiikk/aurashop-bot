@@ -31,7 +31,7 @@ from database.repositories import ProductItemRepository, OrderRepository
 from database.repositories import ProductItemRepository
 from database.repositories import ReferralRepository
 
-CHANNEL_LINK = "https://t.me/anal99i"
+CHANNEL_LINK = "https://t.me/AuraShop247"
 
 async def main():
     logging.basicConfig(level=logging.INFO)
