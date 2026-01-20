@@ -10,7 +10,7 @@ class Config:
     channel_id: int
 
 def load_config() -> Config:
-    token = "8457065938:AAHxP4qPIyXinWbRhUFslSrpsXSHfVG_JlE"
+    token = "8469561045:AAEq77ULWfQ90ZB14praS2z_gt-gXfS8YXE"
     bot_username = "testnaxuisuka_bot"  # 👈 БЕЗ @
     channel_id = -1003544547966
 
